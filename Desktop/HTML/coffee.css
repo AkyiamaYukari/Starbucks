@@ -1,0 +1,96 @@
+.starbucks{
+display:flex;
+height: 500px;
+}
+
+.star{
+flex: 50%;
+}
+
+#rats{
+object-fit: cover;
+height: 100%;
+width: 100%;
+}
+
+#fly{
+    text-align: center;
+    margin-top: 200px;
+}
+
+#mouse{
+font-style:italic;
+margin-left: 50px;
+}
+
+
+
+
+.jk{
+  display:flex;
+  height: 500px;
+}
+
+.v{
+  flex: 50%;
+}
+
+#hope{
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+
+#winterbear{
+  text-align: center;
+  margin-top: 200px;
+}
+
+#army{
+  font-style:italic;
+  margin-left: 50px;
+}
+
+.green{
+display:flex;
+background-color:  black;
+height: 400px;
+}
+
+.red{
+flex: 50%;
+}
+
+#colorcoffee{
+  margin-left: 170px;
+  margin-top: 30px;
+  object-fit: cover;
+  height: 80%;
+  width: 55%;
+}
+
+#pink{
+color: white;
+margin-top: 100px;
+}
+
+#yellow{
+  color: white;
+}
+
+.glass{
+width: 100%;
+height: 250px;
+margin-top: 50px;
+}
+
+.crab{
+font-weight: bold;
+font-size: 20px;
+}
+
+.water{
+font-size: 14px;
+text-align: center;
+font-weight: normal;
+}
